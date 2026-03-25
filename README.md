@@ -19,4 +19,4 @@ A simple BMI Calculator built with React.
 ```bash
 npm install
 npm run dev
-/
+
